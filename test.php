@@ -9,4 +9,6 @@
   {
     echo "No";
   }
+
+  $beta = "Test for github";
 ?>
